@@ -59,3 +59,5 @@ console.log(hack);
 It’s now obvious that we’re looking for the output of this JavaScript code. To entertain the obvious, the output of this code is `amaze robot`. Here’s our first answer!
 
 Now to the puzzle and the next cup of gourmet coffee.
+
+[Puzzle 2](https://github.com/MAKE-UIUC/CrackMIT/tree/master/Puzzle%202)

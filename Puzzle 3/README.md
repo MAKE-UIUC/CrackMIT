@@ -1,41 +1,43 @@
-111111101000101111111
+#Puzzle 3
 
-100000101101001000001
+At this point, we were a little disappointed to say the least. The answers to the last two puzzles were _doge-eque_ phrases. We wonder just how guessable these answers might be, and whether writing a program to guess the phrases might be easier.
 
-101110101111101011101
+We don’t quite remember why we didn’t go down that path or who shot the idea down. Personally, I think each one of us had such an extensive arsenal to destroy that idea that we simply didn’t have to mention it. The idea simply evaporated.
 
-101110101010101011101
+##Starting
+Hitting the link took to a page which looked like:
+[IMAGE HERE]
 
-101110100111101011101
+```
+doge loves squares. much love that he got many tiles to decorate his room.
 
-100000101010101000001
+5642034919813852852422781908617467139461193917486713805365683884050791685329043541497496706716395853950507714645119528696115600806682
 
-111111101010101111111
+tiles to be exact.
+```
+Given the URL of this page, it was clear that this number was calculated based on the user’s github name.
 
-000000000000000000000
+#Factorize? Many-to-One?
+What could this possibly be? It was clear from the discussion on #puzzle-3-discuss in Slack that the popular opinion was that of factorization. There were also opinions that though the numbers were different, the final answer would be the same for everyone. This actually worked well with the factorization argument – perhaps there’s a GCD across these numbers.
 
-110011100000100101111
+This wasn’t going to be easy. This is a 441 bit number and a quick Google revealed that RSA 155 (512 bit) was factored in 1999 and that it took 6 months at the time. Oh dear…
 
-111101011100101111010
+ We spent the next hour or so trying to factor this number. Once this was done, we realized that the factors weren’t the answer were looking for and there wasn’t a GCD across the numbers we had found.
 
-011001111000111010010
+##441 Bit
+Perhaps we were going about this wrong. Could HackMIT really expect us to try to factorize this? If anything, the puzzles seem to be emulating security through obscurity. What were we missing?
 
-110110001011110000010
+We read the text on the page again: doge loves squares. Aha – Squares. 441 is 21 squared.
+We immediately expressed the number as a binary string and arranged the string in a 21x 21 grid (simply wrap the string at each 21st digit). 
 
-011110111011010000011
+And that’s when we saw it – a QR Code!
 
-000000001011110110110
+##Reading the QR Code
+The Code couldn’t be read off just that binary. We tried a couple of quick forms of highlighting before realizing that we’d have to render the QR code better before being able to read it.
 
-111111100101010010010
+This is where our method became truly comic. Of all the methods that we tried, the one that worked fastest was Adobe After Effects. Yes, we used a nuclear weapon to target a paper towel. In seconds, we got the following wobbly (but totally scan-able) render.
 
-100000101000010110001
+The scan read - `amaze swim`. We knew that was our answer because it was another ridiculous doge-phrase. I never thought I’d be so relived to read doge speak.
 
-101110101000110001010
-
-101110100000100010011
-
-101110100010110111100
-
-100000101101100010000
-
-111111101001011100001
+###Improved Method
+Because we’re from UIUC, we couldn’t possibly leave this solution in such a jank state. After we completed the puzzle, we extended the program we used to express the number as a binary string, to go all the way and render the QR code nicely. 

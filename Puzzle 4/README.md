@@ -6,7 +6,7 @@ Hitting the link gave us an interactive page where clicking the dog's nose would
 `song.wav` had an interesting computerized sound to it, so of course it's time to analyze it.
 
 #Analyzing the sound
-I noticed that there was a bark at the beginning of `song.wav`. Luckily, `bark.wav` was also provided, so I opened both files in Audacity and subtracted `bark.wav` from `song.wav`, giving us `[tones.wav](https://raw.githubusercontent.com/MAKE-UIUC/CrackMIT/master/Puzzle%204/tones.wav)`. (I later found out that this was not actually necessary; the bark sound does not interfere with the encoding for the rest of the image.)
+I noticed that there was a bark at the beginning of `song.wav`. Luckily, `bark.wav` was also provided, so I opened both files in Audacity and subtracted `bark.wav` from `song.wav`, giving us [`tones.wav`](https://raw.githubusercontent.com/MAKE-UIUC/CrackMIT/master/Puzzle%204/tones.wav). (I later found out that this was not actually necessary; the bark sound does not interfere with the encoding for the rest of the image.)
 
 Now we had a sound file with what appeared to be a 400Hz tone, but we didn't know anything more than that.
 

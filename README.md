@@ -9,6 +9,9 @@ Each year, HackMIT has an optional challenge for entry. The first couple of team
 
 This write-up was made public *after* all the slots were filled. But even so, please try to solve the puzzles on your own before you read anything here. You may not get anything out of solving them, but they’re still a lot of fun.
 
+More importantly, the gravitas of our solutions and the excitement during our revelations will not be apparent if you read this without trying to solve it on your own first.
+
+
 Now that we’ve got that out the way – READ ON.
 
 

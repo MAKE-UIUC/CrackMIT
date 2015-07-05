@@ -6,7 +6,8 @@ We don’t quite remember why we didn’t go down that path or who shot the idea
 
 ##Starting
 Hitting the link took to a page which looked like:
-[IMAGE HERE]
+
+![Screen](https://raw.githubusercontent.com/MAKE-UIUC/CrackMIT/master/Puzzle%203/number.png)
 
 ```
 doge loves squares. much love that he got many tiles to decorate his room.
@@ -36,6 +37,8 @@ And that’s when we saw it – a QR Code!
 The Code couldn’t be read off just that binary. We tried a couple of quick forms of highlighting before realizing that we’d have to render the QR code better before being able to read it.
 
 This is where our method became truly comic. Of all the methods that we tried, the one that worked fastest was Adobe After Effects. Yes, we used a nuclear weapon to target a paper towel. In seconds, we got the following wobbly (but totally scan-able) render.
+
+![Wobbly QW](https://raw.githubusercontent.com/MAKE-UIUC/CrackMIT/master/Puzzle%203/Initial%20QR.png)
 
 The scan read - `amaze swim`. We knew that was our answer because it was another ridiculous doge-phrase. I never thought I’d be so relived to read doge speak.
 

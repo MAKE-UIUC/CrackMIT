@@ -58,3 +58,9 @@ first ripping the paper and forming the letters as seemed appropriate.
 Second, folding the paper like decent human beings.
 ![Screen](https://raw.githubusercontent.com/MAKE-UIUC/CrackMIT/master/Puzzle%202/fold.png)
 
+##VERY WOW
+Awesome! Our second answer!
+
+Now to the next puzzle and yet another cup of gourmet coffee.
+
+[Puzzle 2](https://github.com/MAKE-UIUC/CrackMIT/tree/master/Puzzle%203)

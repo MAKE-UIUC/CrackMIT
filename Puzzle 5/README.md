@@ -1,7 +1,7 @@
 #Puzzle 5
 
 ##Starting
-This puzzle gave us a grid of squares. For of these squares contained a picture of doge. Some of these squares with the doge pictures had green backgrounds and were clickable, and the others were red and weren’t clickable.
+This puzzle gave us a grid of squares. Four of these squares contained a picture of doge. Some of these squares had green backgrounds and were clickable, and the others were red and weren’t clickable.
 
 ![Screen](https://raw.githubusercontent.com/MAKE-UIUC/CrackMIT/master/Puzzle%205/initial.png)
 
@@ -10,15 +10,15 @@ We didn’t really know what was going on at this point. Clicking the clickable 
 
 ###All Greens?
 
-The non-deterministic looking nature of the puzzle along with the chatter in #puzzle-5-discuss (where people reported brute-forcing the puzzle) got us to believe that the puzzle would be solved if we could get all the doges to either the green or the red state. Why should this be difficult? We’ll the non-deterministic nature of-course.
+The non-deterministic looking nature of the puzzle along with the chatter in #puzzle-5-discuss (where people reported brute-forcing the puzzle) got us to believe that the puzzle would be solved if we could get all the doges to either the green or the red state. Why should this be difficult? Well, the non-deterministic nature of-course.
 
 ![4 Greens State](https://raw.githubusercontent.com/MAKE-UIUC/CrackMIT/master/Puzzle%205/4_greens.png)
 
-We quickly realized that this may not be the case when we stumbled upon the 4 greens state fairly quickly. Back to the metaphorical drawing board. `Spoiler: the 4 red state is absolutely impossible`.
+We quickly realized that this may not be the case, as we stumbled upon the 4 greens state fairly quickly. Back to the metaphorical drawing board. `Spoiler: the 4 red state is absolutely impossible`.
 
 ###Repeating Patterns
 
-Clicking around arbitrarily eventually seemed to give us certain repeated patterns. For example, clicking up and then down (or vice versa) gave you the same pattern of squares as if you hadn't done that at all. Same with left/right. The reason for this became very clear and obvious, but we didn't know why yet.
+Clicking around arbitrarily seemed to eventually give us certain repeated patterns. For example, clicking up and then down (or vice versa) gave you the same pattern of squares as if you hadn't done so at all. Same with left/right. Although we didn't understand why this was happening at the time, the reason for this became very clear and obvious soon after.
 
 Another part of the puzzle involved the images that showed up. These were numbered and had doge-related words followed by a letter.
 
@@ -31,5 +31,5 @@ Because of the uncertainty of the size of the maze (possibly infinite if generat
 
 After finding all the images, we were left with 9 letters. Putting them all in as-is didn't work, and neither did putting in their corresponding symbols.
 
-We noticed that "much" and "such" were words in scrambled form in those 9 letters. Plugging in the remaining letters into a word un-scrambler gave us the final answer: `much snarl`.
+We noticed that we could unscramble some of the nine letters to make the words: "much" and "such". Plugging in the remaining letters into a word un-scrambler gave us the final answer: `much snarl`.
 

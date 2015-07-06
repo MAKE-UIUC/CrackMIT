@@ -27,6 +27,8 @@ We had the revelation that this was actually a maze, where red doges represented
 
 Because of the uncertainty of the size of the maze (possibly infinite if generated according to an algorithm), breadth-first search was used (since it is capable of handling graphs of infinite size, unlike depth-first search), along with a dictionary that mapped coordinates to a value if that coordinate was visited. As it turns out, the entire maze is about 20x20 in size, so the maze algorithm finds all images in about 30 seconds (most of this time due to network requests).
 
+To run the maze solver for yourself, make sure you have `python-requests` and `bs4` installed then run `python mazedoge.py`.
+
 ##The Answer?
 
 After finding all the images, we were left with 9 letters. Putting them all in as-is didn't work, and neither did putting in their corresponding symbols.

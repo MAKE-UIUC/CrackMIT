@@ -1,7 +1,7 @@
 #Puzzle 1
 
 ##Starting
-Hitting the link the Puzzle 1 link took us to a page that asked us for an email address. This email address was for a Slack team for the Puzzle. The team was called _dogemit_ and had a bot named _dogebot_. _dogebot_ was fairly responsive on #General and repeatedly asked for members to message him directly, so we did.
+Hitting the link for Puzzle 1 took us to a page that asked us for an email address. This email address was then used to register for a Slack team named _dogemit_. It had a cute chatbot named _dogebot_. _dogebot_ was fairly responsive on #General and repeatedly asked for members to message him directly, so we did.
 
 ##Messaging _dogebot_
 Interacting with dogebot seemed to have a couple of rules – this is what messaging `help` resulted in.
@@ -20,7 +20,7 @@ Given this list, we did the next most logical thing – we messaged `speak` to d
 ##Arcane Nonsense
 Initially, it seemed like dogebot was spouting off random / arbitrary doge phrases. It was clear that this was going to be a long night.
 
-After speaking to him for sometime, we realized that he was saying the same thing over and over again. He was saying
+After speaking to him for sometime, we realized that he was saying the same thing over and over again. Some notable quotes:
 ```
 so very much such pls many wow amaze
 very amaze is 'amaze '
@@ -36,11 +36,11 @@ shh pls send dogebot to hackmit
 Remember what we said about long nights?
 
 ##Javascripty?
-That word is key to solving Puzzle 1. If you noticed that spoken out, dogebot’s message sounds like JavaScript – it sounds JavaScripty… Hold on – doge and JavaScript? Was this DogeScript?
+The above word is key to solving Puzzle 1. We noticed that spoken out, dogebot’s message sounds almost ... JavaScripty ... Hold on – doge and JavaScript? Was this DogeScript?
 
-It took us over an hour to figure this out. How could we have not seen this earlier? Perhaps it’s what we said about the length of the night.
+It took us over an hour to figure this out. How could we have not seen this earlier? Perhaps the late hours had gotten to us.
 
-A quick look over the DogeScript website made it clear that that dogebot’s message translated to the following JavaScript code.
+A quick look over the DogeScript website made it clear that that dogebot’s message translated to the following JavaScript code:
 ```
 var very = require('very');
 var amaze = 'amaze ';

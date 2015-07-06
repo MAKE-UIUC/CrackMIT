@@ -44,3 +44,5 @@ The scan read - `amaze swim`. We knew that was our answer because it was another
 
 ###Improved Method
 Because we’re from UIUC, we couldn’t possibly leave this solution in such an abismal state. After we completed the puzzle, we extended the program we used to express the number as a binary string, to go all the way and render the QR code nicely. 
+
+[Puzzle 4](https://github.com/MAKE-UIUC/CrackMIT/tree/master/Puzzle%204)

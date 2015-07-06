@@ -63,4 +63,4 @@ Awesome! Our second answer!
 
 Now to the next puzzle and yet another cup of gourmet coffee.
 
-[Puzzle 2](https://github.com/MAKE-UIUC/CrackMIT/tree/master/Puzzle%203)
+[Puzzle 3](https://github.com/MAKE-UIUC/CrackMIT/tree/master/Puzzle%203)

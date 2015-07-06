@@ -33,3 +33,4 @@ After finding all the images, we were left with 9 letters. Putting them all in a
 
 We noticed that we could unscramble some of the nine letters to make the words: "much" and "such". Plugging in the remaining letters into a word un-scrambler gave us the final answer: `much snarl`.
 
+[Puzzle 6](https://github.com/MAKE-UIUC/CrackMIT/tree/master/Puzzle%206)

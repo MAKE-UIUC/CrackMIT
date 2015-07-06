@@ -1,15 +1,15 @@
 # CrackMIT
 Cracking HackMIT's Puzzles
 
-##Before You Read this
+Each year, HackMIT has an optional challenge for entry. The first couple of teams that solve this challenge are guaranteed entry to HackMIT. We were one of these couple of teams, and this is a hastily written account of how we solved the challenge.
+
+##Before Reading Ahead
 
 Tl;dr – Spoilers Abound!!!!
 
-Each year, HackMIT has an optional challenge for entry. The first couple of teams that solve this challenge are guaranteed entry to HackMIT. We were one of these couple of teams, and this is a hastily written account of how we solved the challenge.
-
 This write-up was made public *after* all the slots were filled. But even so, please try to solve the puzzles on your own before you read anything here. You may not get anything out of solving them, but they’re still a lot of fun.
 
-More importantly, the gravitas of our solutions and the excitement during our revelations will not be apparent if you read this without trying to solve it on your own first.
+More importantly, the gravitas of our solutions and the excitement during our revelations will not be apparent if you read this without trying to solve it on your own first. Please also note that this is *not the official* solution set.
 
 
 Now that we’ve got that out the way – READ ON.

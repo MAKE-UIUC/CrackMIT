@@ -20,7 +20,7 @@ Given this list, we did the next most logical thing – we messaged `speak` to d
 ##Arcane Nonsense
 Initially, it seemed like dogebot was spouting off random / arbitrary doge phrases. It was clear that this was going to be a long night.
 
-After speaking to him for sometime, we realized that he was saying the same thing over and over again. Some notable quotes:
+After speaking to him for sometime, we realized that he was saying the same thing over and over again:
 ```
 so very much such pls many wow amaze
 very amaze is 'amaze '

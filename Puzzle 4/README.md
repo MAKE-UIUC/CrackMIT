@@ -27,3 +27,5 @@ Installing Sonic Visualizer and grabbing the spectrogram of the audio reveals th
 ![Spectrogram](https://raw.githubusercontent.com/MAKE-UIUC/CrackMIT/master/Puzzle%204/spectrogram.png)
 
 Well, that's pretty obvious. The answer is `such hertz`.
+
+[Puzzle 5](https://github.com/MAKE-UIUC/CrackMIT/tree/master/Puzzle%205)

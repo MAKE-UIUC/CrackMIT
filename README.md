@@ -34,3 +34,10 @@ Short Sightedness
 
 [Puzzle 6](https://github.com/MAKE-UIUC/CrackMIT/tree/master/Puzzle%206)
 Reverse Engineering is for the week
+
+##Also Worth a Read
+[Contributors](https://github.com/MAKE-UIUC/CrackMIT/tree/master/Misc#contributors)
+All the people that helped in this effort.
+
+[Finding the Challenge](https://github.com/MAKE-UIUC/CrackMIT/tree/master/Misc#starting-the-puzzle)
+How we got Started
